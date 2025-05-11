@@ -4,7 +4,7 @@ export const skillsData = [
   'Javascript',
   'Photoshop',
   'Illustrator',
-  'Next JS',
+  'MySQL',
   'C',
   'After Effects',
   'Picsart',

@@ -7,14 +7,15 @@ export const educations = [
   },
   {
     id: 2,
-    title: "Drexel AI , Undergraduate Student Association , Pakistan Student Association",
-    duration: "INSTITUTION INVOLVEMENT",
-    institution: "Active Member and Board Member",
+    title: "Founder Scholar | Deans List",
+    duration: "HONORS",
+    institution: "Prestigious Scholarship awarded by Drexel University",
   },
   {
     id: 3,
-    title: "Founder Scholar , Deans List",
-    duration: "HONORS",
-    institution: "Prestigious Scholarship awarded by Drexel University",
-  }
+    title: "Drexel AI | Drexel Club Sports Supervisor  ",
+    duration: "INSTITUTION INVOLVEMENT",
+    institution: "Board Member",
+  },
+
 ]

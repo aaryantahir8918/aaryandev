@@ -3,7 +3,7 @@ export const personalData = {
   profile: '/profile.png',
   designation: "Electrical & Computer Engineer in the making",
   description: "Hello! I'm Muhammad Aaryan Tahir, an Electrical and Computer Engineering student at Drexel University with a passion for innovation and problem-solving. I specialize in embedded systems, circuit design, and digital signal processing, with hands-on experience in microcontrollers, C/C++, Python, Arduino, and hardware-software integration.I thrive in dynamic environments that demand creativity and technical expertise. Whether optimizing power systems or developing IoT solutions, I bring precision and innovation to every project. Let's connect and build something great!",
-  email: 'at3624@gmail.com',
+  email: 'at3624@drexel.edu',
   phone: '+1 267 292 1644',
   address: 'Philadelphia, PA 19104, United States ',
   github: 'https://github.com/Aaryanhere',

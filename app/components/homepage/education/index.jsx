@@ -21,7 +21,7 @@ function Education() {
       </div>
 
       <div className="flex justify-center my-5 lg:py-8">
-        <div className="flex  items-center">
+        <div className="flex items-center">
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
           <span className="bg-[#1a1443] w-fit text-white p-2 px-5 text-xl rounded-md">
             Educations
@@ -32,8 +32,18 @@ function Education() {
 
       <div className="py-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
+          
+          {/* 👇 This is the new image block */}
           <div className="flex justify-center items-start">
-
+            <div className="w-full h-full flex justify-center items-center">
+              <Image
+                src="/education.png" // ✅ Make sure this image is in your /public folder
+                alt="Education Graphic"
+                width={400}
+                height={400}
+                className="rounded-xl shadow-lg object-contain"
+              />
+            </div>
           </div>
 
           <div>
@@ -55,7 +65,7 @@ function Education() {
                         </p>
                       </div>
                       <div className="flex items-center gap-x-8 px-3 py-5">
-                        <div className="text-violet-500  transition-all duration-300 hover:scale-125">
+                        <div className="text-violet-500 transition-all duration-300 hover:scale-125">
                           <BsPersonWorkspace size={36} />
                         </div>
                         <div>
@@ -75,6 +85,6 @@ function Education() {
       </div>
     </div>
   );
-};
+}
 
 export default Education;

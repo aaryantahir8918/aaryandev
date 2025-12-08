@@ -14,7 +14,7 @@ export const experiences = [
   {
     id: 3,
     title: "Research Lead and Founder",
-    company: "Led the design Team and worked in the developedment of retro-style games using Python, taking charge of both gameplay mechanics and visual design, including user interfaces and character art, to deliver a cohesive and engaging nostalgic gaming experience with modern usability standards.",
+    company: "spearheaded the complete research, design, and technical development of a fully local, AI-powered contextual monitoring system—serving as both the Research Lead and Research Founder. I defined the vision, created the system architecture, engineered the core pipeline, and guided the entire team through the technical direction needed to bring this product to life. Under my leadership, we built a device capable of intelligent on-device perception, multi-modal event understanding, and user-defined behavioral monitoring, all while maintaining total data privacy. This work is formally recognized by Drexel University and conducted under the prestigious STAR (Students Tackling Advanced Research) Program, where my contributions have been acknowledged as the primary driving force behind the project’s innovation, progress, and real-world impact.",
     duration: "Vision AI - Drexel University",
   },
 

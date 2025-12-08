@@ -13,9 +13,9 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "Python Developer & UI/UX designer ",
+    title: "Research Lead and Founder",
     company: "Led the design Team and worked in the developedment of retro-style games using Python, taking charge of both gameplay mechanics and visual design, including user interfaces and character art, to deliver a cohesive and engaging nostalgic gaming experience with modern usability standards.",
-    duration: "Webpk Studio"
+    duration: "Vision AI - Drexel University",
   },
 
 ]

@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'Preventative Maintenance Engineer Co-op',
-    company: "Led multiple high-impact automation initiatives in the Preventative Maintenance department, including automating the KPI reporting process across 7 departments using Python, Access queries, and macros (saving ~3 days of manual work per cycle); developed an interactive pre-audit visualization and a post-audit report generation agent; consolidated historical circuit patrol data with scripts and hosted on Power BI for real-time access; proposed, implemented, and currently maintain a 24/7 server hosting all automations and workspaces with daily updates; currently developing a custom AI chatbot trained on PM data to provide real-time guidance and job-aid support for engineers.",
+    company: "Led multiple high-impact automation initiatives in the Preventative Maintenance department, including automating the KPI reporting process across Multiple departments using Python, Access queries, and compiled macros (saving 3 days of manual work per cycle - Mentioned on Innovation Portal); developed an interactive pre-audit visualization and a post-audit report generation agent; consolidated historical circuit patrol data with scripts and hosted on Power BI for real-time access; proposed, implemented, and currently maintain a 24/7 server hosting all automations and workspaces with daily updates; currently developing a custom AI chatbot custom trained on PM data to provide real-time guidance and job-aid support for engineers.",
     duration: "Exelon PICO – Philadelphia, PA",
   },
   {
@@ -14,7 +14,7 @@ export const experiences = [
   {
     id: 3,
     title: "Research Lead and Founder",
-    company: "Spearhead research and development for a fully local, AI-powered contextual monitoring system under the STAR (Students Tackling Advanced Research) Program; lead a team of 2 PhD students and 2 senior undergraduates, providing technical direction, project planning, and mentorship; designed system architecture and engineered core AI pipelines for real-time event detection, multi-modal perception, and intelligent behavioral monitoring; solutions maintain full data privacy while providing actionable insights from live video streams; recognized as the primary driver of innovation and technical progress for the project, formally acknowledged by Drexel University.",
+    company: "Spearhead research and development for a fully local, AI-powered contextual monitoring system under the STAR Program; lead a team of 2 PhD students and 2 senior undergraduates, providing technical direction, project planning, and mentorship; designed system architecture and engineered core AI pipelines for real-time event detection, multi-modal perception, and intelligent behavioral monitoring; solutions maintain full data privacy while providing actionable insights from live video streams; recognized as the primary driver of innovation and technical progress for the project, formally acknowledged by Drexel University.",
     duration: "Vision AI – Drexel University",
   },
 ];

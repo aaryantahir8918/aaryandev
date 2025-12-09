@@ -13,9 +13,9 @@ export const educations = [
   },
   {
     id: 3,
-    title: "Drexel AI | Drexel Club Sports Supervisor  ",
+    title: "Drexel Vision AI Research Lead | Technical Student Ambassador  ",
     duration: "INSTITUTION INVOLVEMENT",
-    institution: "Board Member",
+    institution: "Drexel Rec - Club Sports Supervisor",
   },
 
 ]

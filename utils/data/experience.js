@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Technology & Digital Communications Coordinator',
+    title: 'Preventative Maintainance Engineer Co-op',
     company: "Developed an automated Welcome Center and Report System for The F11 Capital Campus to streamline visitor management.Integrated a Python and SQL-based system for registering parents upon arrival. Enabled automatic placement of visitors into a digital waiting queue displayed on-screen | 48% Reduction in Visit duration by the end of academic year.",
     duration: "The Step School Systems",
   },

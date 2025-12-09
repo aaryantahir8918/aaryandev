@@ -1,21 +1,35 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Preventative Maintainance Engineer Co-op',
-    company: "Developed an automated Welcome Center and Report System for The F11 Capital Campus to streamline visitor management.Integrated a Python and SQL-based system for registering parents upon arrival. Enabled automatic placement of visitors into a digital waiting queue displayed on-screen | 48% Reduction in Visit duration by the end of academic year.",
-    duration: "The Step School Systems",
+    title: 'Preventative Maintenance Engineer Co-op',
+    company: "Exelon PICO – Philadelphia, PA",
+    duration: "Oct 2025 – Present",
+    description: `Led multiple high-impact automation initiatives within the Preventative Maintenance department, including:
+- Fully automated the monthly KPI reporting process across 7 departments using Python, Access queries, and macros, delivering ready-to-use spreadsheets by the first of each month and saving ~3 days of manual work per cycle.
+- Developed an interactive pre-audit visualization (HTML) and a post-audit report generation agent to streamline audit planning and reporting, eliminating manual compilation.
+- Consolidated historical circuit patrol data and implemented scripts to automatically retrieve last patrol dates, hosted on Power BI for real-time access.
+- Proposed, implemented, and currently maintain a dedicated 24/7 server hosting all automations and workspaces, ensuring daily updates for departmental workflows.
+- Designing and developing a custom AI chatbot trained on PM data to provide real-time guidance and job-aid support for engineers.`
   },
   {
     id: 2,
     title: "Engineer Intern – Software & Electrical",
-    company: "Worked on the development of a self-driving robotic cart capable of autonomous decision-making, focusing on basic mobility logic and real-world hardware integration.Led the assembly of the robotic platform, coordinating component installation and system alignment",
-    duration: "National University of Sciences and Technology (NUST)",
+    company: "National University of Sciences and Technology (NUST)",
+    duration: "Jul 2024 – Aug 2024",
+    description: `Contributed to the development of AI-powered robotics and assistive technology projects:
+- Developed a self-driving robotic cart capable of autonomous decision-making and real-world hardware integration, coordinating component assembly and system alignment.
+- Assisted in the creation of an AI-powered assistive pen that converts handwritten text into audio for visually impaired users.
+- Worked with Python, Arduino, ESP32, and integrated AI APIs for real-time hardware-software functionality.`
   },
   {
     id: 3,
     title: "Research Lead and Founder",
-    company: "spearheaded the complete research, design, and technical development of a fully local, AI-powered contextual monitoring system—serving as both the Research Lead and Research Founder. I defined the vision, created the system architecture, engineered the core pipeline, and guided the entire team through the technical direction needed to bring this product to life. Under my leadership, we built a device capable of intelligent on-device perception, multi-modal event understanding, and user-defined behavioral monitoring, all while maintaining total data privacy. This work is formally recognized by Drexel University and conducted under the prestigious STAR (Students Tackling Advanced Research) Program, where my contributions have been acknowledged as the primary driving force behind the project’s innovation, progress, and real-world impact.",
-    duration: "Vision AI - Drexel University",
+    company: "Vision AI – Drexel University",
+    duration: "Ongoing",
+    description: `Spearhead research and development for a fully local, AI-powered contextual monitoring system as part of the STAR (Students Tackling Advanced Research) Program:
+- Lead a team of 2 PhD students and 2 senior undergraduates, providing technical direction, project planning, and mentorship.
+- Designed system architecture and engineered core AI pipelines for real-time event detection, multi-modal perception, and intelligent behavioral monitoring.
+- Developed solutions that maintain full data privacy while providing actionable insights from live video streams.
+- Recognized as the primary driver of innovation and technical progress for the project, formally acknowledged by Drexel University.`
   },
-
-]
+];
